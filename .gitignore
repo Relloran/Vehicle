@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MachineLearning
+/MachineLearningML.ConsoleApp/obj
+/MachineLearningML.ConsoleApp/bin/Debug/netcoreapp3.1
+/MachineLearningML.Model/obj
+/MachineLearningML.Model/bin/Debug/netstandard2.0
+/Proxy/obj
+/Proxy/bin/Debug/netcoreapp3.1
+/WebApplication1/bin/Debug/netcoreapp3.1
+/WebApplication1/obj/Debug/netcoreapp3.1
+/WebApplication1/obj
